@@ -1,1 +1,11 @@
 .DS_STORE
+
+# No code:
+*.js
+*.ts
+*.cpp
+*.h
+*.py
+*.css
+*.tsx
+*.html
